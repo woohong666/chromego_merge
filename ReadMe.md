@@ -41,7 +41,7 @@ https://mareep.netlify.app/sub/shadowrocket_base64.txt
 ### sing-box订阅链接（1.8.0以上）
 
 ```
-https://sing-box-subscribe.vercel.app/config/https://chromego-sub.netlify.app/sub/sing-box.json
+https://chromego-sub.netlify.app/sub/sing-box.json
 ```
 
 ## 客户端推荐
